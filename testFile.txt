@@ -1,2 +1,2 @@
 Welcome to testFile in GitHub
-main branch change
+Final version after branch merger and conflict taken care
